@@ -5,10 +5,11 @@ tags = [
     "keto",
     "cracker",
 ]
+date = '2022-03-26'
+created = '1648305484666'
 +++
 
-updated: 1648305484666
-created: 1648305484666
+| fat 74% | protein 19.5% | net carbs 6.5% |
 
 ## Quick info
 - 1 square serving (61 kcal)

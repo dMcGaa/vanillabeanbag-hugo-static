@@ -1,15 +1,17 @@
 +++
 title = "Cookie - Chocolate No-Bake"
-description = 'Peanut butter, cacao butter, chocolate, coconut'
+description = 'Cookies, peanut butter, cacao butter, chocolate, coconut'
+date = "2022-08-06"
 tags = [
     "keto",
     "keto-ratio"
 ]
+thumbnail = "./cookie-choco-peanut-no-bake.webp"
 +++
 
-updated = 1659883963274
-created = 1659799520098
-Peanut butter, cacao butter, chocolate, coconut
+| fat 85% | protein 7% | net carbs 9% |
+
+Cookies, peanut butter, cacao butter, chocolate, coconut
 
 ## Quick info
 - 1 serving, 1 cookie (91.2 kcal)
@@ -44,7 +46,6 @@ Peanut butter, cacao butter, chocolate, coconut
 1. set somewhere cool to set
 
 ![Chocolate peanut butter no-bake cookies](./cookie-choco-peanut-no-bake.webp)
-![dollar](/images/building.png)
 
 ## Variations
 - shredded coconut flakes

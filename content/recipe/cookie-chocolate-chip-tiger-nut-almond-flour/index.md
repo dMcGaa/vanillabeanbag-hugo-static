@@ -4,10 +4,12 @@ description = ''
 tags = [
     "keto",
 ]
+created = '1649509606611'
+date = '2022-04-09'
 +++
 
-updated: 1649509618397
-created: 1649509606611
+| fat 77% | protein 9% | net carbs 14% |
+
 ## Quick info
 - 1 serving, 1 cookie (94 kcal)
 

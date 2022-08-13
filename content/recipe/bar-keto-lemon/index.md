@@ -1,14 +1,14 @@
 +++
 title = "Keto Lemon Bar"
 description = ''
+date = '2022-07-30'
 tags = [
     "keto",
     "keto-ratio"
 ]
 +++
 
-updated: 1659225167243
-created: 1659224979991
+| fat 91% | protein 6% | net carbs 3% |
 
 ## Quick info
 - 1 serving (284.4 kcal)
