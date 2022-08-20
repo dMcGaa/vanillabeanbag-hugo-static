@@ -15,7 +15,7 @@ A List of recipes that are keto friendly
 
 ## Snacks
 - [Almond Flour Cracker]({{< ref "recipe/cracker-almond-flour" >}}) - crunchy, salty, good with butter or other dips
-- [[recipe.cookie-tiger-nut-almond-flour]]
+- [Chocolate Chip Cookie - Tiger Nut Almond Flour]({{< ref "recipe/cookie-chocolate-chip-tiger-nut-almond-flour" >}}) - chocolate chip cookies, keto friendly
 
 ## Dessert
-- [[recipe.bar-keto-lemon]] - sweet
+- [Lemon Bar (keto)]({{< ref "recipe/bar-keto-lemon" >}}) - lemony bars, keto friendly

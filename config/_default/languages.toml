@@ -1,10 +1,4 @@
-
 [en]
   title = "VanillaBeanBag"
   LanguageName = "English"
   weight = 1
-
-[pt]
-  title = "VanillaBeanBag" # just for the sake of showing this is possible
-  LanguageName = "Português"
-  weight = 2
