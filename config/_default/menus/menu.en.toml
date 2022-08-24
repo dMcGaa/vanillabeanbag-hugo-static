@@ -4,6 +4,11 @@
   weight = -110
 
 [[main]]
+  name = "Keto Friendly Recipes"
+  url = "recipe/keto-friendly-list/"
+  weight = -109
+
+[[main]]
   name = "Recipes"
   url = "recipe/"
   weight = -109
