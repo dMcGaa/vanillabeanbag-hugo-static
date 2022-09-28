@@ -26,11 +26,10 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
-          #external_repository: <username>/<username>.github.io
+          #personal_token: ${{ secrets.TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: dMcGaa/vanillabeanbag-health
+          publish_branch: pages # default: gh-pages
           publish_dir: ./public
           #   keep_files: true
-          #user_name: <username>
-          #user_email: <username@email.com>
-          publish_branch: main
           cname: vanillabeanbag.com
