@@ -26,7 +26,7 @@ date = '2022-12-30'
 - oven 350 F
 
 ## Ingredients (dry)
-- 160 cups Almond Flour
+- 160g Almond Flour
 - 25g Allulose (5 tsp)
 - 60g Oat Fiber
 - 4 Tbsp whole psyllium husk fiber (ground in mortar and pestle to half size)
