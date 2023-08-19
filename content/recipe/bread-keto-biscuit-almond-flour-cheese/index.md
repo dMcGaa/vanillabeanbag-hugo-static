@@ -39,10 +39,11 @@ date = '2023-08-19'
     - 1/3 cup sour cream
     - 60g butter (4 Tbsp)
     - 75g cheese (1/3 cup) (cheddar suggested)
-4. Drop onto onto parchment paper on baking sheet
-5. Bake at a low rack for __15 to 20 minutes__
+4. Mix wet ingredients into dry ingredients
+5. Drop onto onto parchment paper on baking sheet
+6. Bake at a low rack for __15 to 20 minutes__
     - during baking, the bottom may remain moist, transfer to wire rack and bake when solid enough to transfer
-6. Cool on a wire rack
+7. Cool on a wire rack
 
 ## Notes and References
 - Oat fiber is for taste, it can be replaced with more almond flour
